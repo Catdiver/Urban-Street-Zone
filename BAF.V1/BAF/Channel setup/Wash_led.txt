@@ -1,0 +1,65 @@
+﻿100 = wash 1 color 
+101 = wash 1 gobo
+102 = wash 1 rotate
+103 = wash 1 shutter
+104 = wash 1 pan
+105 = wash 1 tilt
+106 = wash 1 ?
+107 = wash 1 split
+108 = wash 1 ?
+109 = wash 1 reset
+
+110 = wash 2 color 
+111 = wash 2 gobo
+112 = wash 2 rotate
+113 = wash 2 shutter
+114 = wash 2 pan
+115 = wash 2 tilt
+116 = wash 2 ?
+117 = wash 2 split
+118 = wash 2 ?
+119 = wash 2 reset
+
+120 = wash 3 color 
+121 = wash 3 gobo
+122 = wash 3 rotate
+123 = wash 3 shutter
+124 = wash 3 pan
+125 = wash 3 tilt
+126 = wash 3 ?
+127 = wash 3 split
+128 = wash 3 ?
+129 = wash 3 reset
+
+130 = wash 4 color 
+131 = wash 4 gobo
+132 = wash 4 rotate
+133 = wash 4 shutter
+134 = wash 4 pan
+135 = wash 4 tilt
+136 = wash 4 ?
+137 = wash 4 split
+138 = wash 4 ?
+139 = wash 4 reset
+
+140 = wash 5 color 
+141 = wash 5 gobo
+142 = wash 5 rotate
+143 = wash 5 shutter
+144 = wash 5 pan
+145 = wash 5 tilt
+146 = wash 5 ?
+147 = wash 5 split
+148 = wash 5 ?
+149 = wash 5 reset
+
+150 = wash 6 color 
+151 = wash 6 gobo
+152 = wash 6 rotate
+153 = wash 6 shutter
+154 = wash 6 pan
+155 = wash 6 tilt
+156 = wash 6 ?
+157 = wash 6 split
+158 = wash 6 ?
+159 = wash 6 reset
